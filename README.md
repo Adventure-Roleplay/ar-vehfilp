@@ -1,9 +1,9 @@
-# itssjxstn-vehicleflip
+# ar-vehicleflip
 This Script Checks if a Vehicle got Fipped to the ROOF and Disables it Completely
 # License
 
     PrimeState Roleplay
-    Copyright (C) 2024 ItssJxstn & PrimeState Roleplay
+    Copyright (C) 2024 ItssJxstn & Adventure Roleplay
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
